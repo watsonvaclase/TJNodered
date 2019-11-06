@@ -9,9 +9,9 @@ Para este ejercicio se estiman al menos 4 horas de preparación previa, dependie
 4. Javascript y ejercicios “Extra Life: hacker’s challenges”.
 5. Watson Assistnat 
 
-En este link está la documentación completa paso a paso, con las instrucciones de cómo prepararar las sesiones: <a href= "http://www.watsonvaaclase.es/moodle/mod/resource/view.php?id=27">Preparación Previa</a> <br>
+En este link está la documentación completa paso a paso, con las instrucciones para la <a href= "http://www.watsonvaaclase.es/moodle/mod/resource/view.php?id=27">Preparación Previa</a> <br>
 
-Aquí las presentaciones que se pueden usar para cada sesión: <a href= "http://www.watsonvaaclase.es/moodle/mod/folder/view.php?id=29">Presentaciones</a> <br>
+En este enlace las <a href= "http://www.watsonvaaclase.es/moodle/mod/folder/view.php?id=29">Presentaciones</a> para cada sesión. <br>
 
 Un ejemplo del resultado final se puede ver en el siguiente video
 
