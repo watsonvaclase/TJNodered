@@ -1,4 +1,4 @@
-# TJNodered
+# TJBot y Node-RED
 Propuesta para desarrollos de Node-RED sobre la raspberry de TJBot
 
 Para este ejercicio se estiman al menos 4 horas de preparación previa, dependiendo de su experiencia previa y habilidades técnicas, más el tiempo dedicado a las sesiones, en este caso la propuesta es de 5 sesiones de 2 horas. Distribuidas de la siguiente manera:
